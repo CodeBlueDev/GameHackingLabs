@@ -1,4 +1,4 @@
-# GameHackingExamples
+# GameHackingLabs
 
 Labs for the book [Game Hacking: Developing Autonomous Bots for Online Games](http://www.nostarch.com/gamehacking).
 
